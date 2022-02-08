@@ -1,0 +1,14 @@
+D:\Visual Studio Workspace\ExercisesList\Ex13\bin\Debug\net6.0\Ex13.exe
+D:\Visual Studio Workspace\ExercisesList\Ex13\bin\Debug\net6.0\Ex13.deps.json
+D:\Visual Studio Workspace\ExercisesList\Ex13\bin\Debug\net6.0\Ex13.runtimeconfig.json
+D:\Visual Studio Workspace\ExercisesList\Ex13\bin\Debug\net6.0\Ex13.dll
+D:\Visual Studio Workspace\ExercisesList\Ex13\bin\Debug\net6.0\ref\Ex13.dll
+D:\Visual Studio Workspace\ExercisesList\Ex13\bin\Debug\net6.0\Ex13.pdb
+D:\Visual Studio Workspace\ExercisesList\Ex13\obj\Debug\net6.0\Ex13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Workspace\ExercisesList\Ex13\obj\Debug\net6.0\Ex13.AssemblyInfoInputs.cache
+D:\Visual Studio Workspace\ExercisesList\Ex13\obj\Debug\net6.0\Ex13.AssemblyInfo.cs
+D:\Visual Studio Workspace\ExercisesList\Ex13\obj\Debug\net6.0\Ex13.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workspace\ExercisesList\Ex13\obj\Debug\net6.0\Ex13.dll
+D:\Visual Studio Workspace\ExercisesList\Ex13\obj\Debug\net6.0\ref\Ex13.dll
+D:\Visual Studio Workspace\ExercisesList\Ex13\obj\Debug\net6.0\Ex13.pdb
+D:\Visual Studio Workspace\ExercisesList\Ex13\obj\Debug\net6.0\Ex13.genruntimeconfig.cache
