@@ -1,6 +1,7 @@
 C# Exercises
 
 1 - Write a program in C# that prints the phrase "Hi, I already print sentences".
+
 2 - Write a program in C# that prints an int number, for example 273, or 597.
 3 - Write a program in C# that prints a float number, for example the 5.3, or the 7.5.
 4 - Write a program in C# that prints on the screen the sum of 1234 and 532.
