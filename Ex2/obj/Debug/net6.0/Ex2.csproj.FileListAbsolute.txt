@@ -1,0 +1,14 @@
+D:\Visual Studio Workspace\ExercisesList\Ex2\bin\Debug\net6.0\Ex2.exe
+D:\Visual Studio Workspace\ExercisesList\Ex2\bin\Debug\net6.0\Ex2.deps.json
+D:\Visual Studio Workspace\ExercisesList\Ex2\bin\Debug\net6.0\Ex2.runtimeconfig.json
+D:\Visual Studio Workspace\ExercisesList\Ex2\bin\Debug\net6.0\Ex2.dll
+D:\Visual Studio Workspace\ExercisesList\Ex2\bin\Debug\net6.0\ref\Ex2.dll
+D:\Visual Studio Workspace\ExercisesList\Ex2\bin\Debug\net6.0\Ex2.pdb
+D:\Visual Studio Workspace\ExercisesList\Ex2\obj\Debug\net6.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Workspace\ExercisesList\Ex2\obj\Debug\net6.0\Ex2.AssemblyInfoInputs.cache
+D:\Visual Studio Workspace\ExercisesList\Ex2\obj\Debug\net6.0\Ex2.AssemblyInfo.cs
+D:\Visual Studio Workspace\ExercisesList\Ex2\obj\Debug\net6.0\Ex2.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workspace\ExercisesList\Ex2\obj\Debug\net6.0\Ex2.dll
+D:\Visual Studio Workspace\ExercisesList\Ex2\obj\Debug\net6.0\ref\Ex2.dll
+D:\Visual Studio Workspace\ExercisesList\Ex2\obj\Debug\net6.0\Ex2.pdb
+D:\Visual Studio Workspace\ExercisesList\Ex2\obj\Debug\net6.0\Ex2.genruntimeconfig.cache
