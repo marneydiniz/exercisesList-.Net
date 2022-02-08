@@ -1,0 +1,14 @@
+D:\Visual Studio Workspace\ExercisesList\Ex18\bin\Debug\net6.0\Ex18.exe
+D:\Visual Studio Workspace\ExercisesList\Ex18\bin\Debug\net6.0\Ex18.deps.json
+D:\Visual Studio Workspace\ExercisesList\Ex18\bin\Debug\net6.0\Ex18.runtimeconfig.json
+D:\Visual Studio Workspace\ExercisesList\Ex18\bin\Debug\net6.0\Ex18.dll
+D:\Visual Studio Workspace\ExercisesList\Ex18\bin\Debug\net6.0\ref\Ex18.dll
+D:\Visual Studio Workspace\ExercisesList\Ex18\bin\Debug\net6.0\Ex18.pdb
+D:\Visual Studio Workspace\ExercisesList\Ex18\obj\Debug\net6.0\Ex18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Workspace\ExercisesList\Ex18\obj\Debug\net6.0\Ex18.AssemblyInfoInputs.cache
+D:\Visual Studio Workspace\ExercisesList\Ex18\obj\Debug\net6.0\Ex18.AssemblyInfo.cs
+D:\Visual Studio Workspace\ExercisesList\Ex18\obj\Debug\net6.0\Ex18.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workspace\ExercisesList\Ex18\obj\Debug\net6.0\Ex18.dll
+D:\Visual Studio Workspace\ExercisesList\Ex18\obj\Debug\net6.0\ref\Ex18.dll
+D:\Visual Studio Workspace\ExercisesList\Ex18\obj\Debug\net6.0\Ex18.pdb
+D:\Visual Studio Workspace\ExercisesList\Ex18\obj\Debug\net6.0\Ex18.genruntimeconfig.cache
