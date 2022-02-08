@@ -1,0 +1,14 @@
+D:\Visual Studio Workspace\ExercisesList\Ex10\bin\Debug\net6.0\Ex10.exe
+D:\Visual Studio Workspace\ExercisesList\Ex10\bin\Debug\net6.0\Ex10.deps.json
+D:\Visual Studio Workspace\ExercisesList\Ex10\bin\Debug\net6.0\Ex10.runtimeconfig.json
+D:\Visual Studio Workspace\ExercisesList\Ex10\bin\Debug\net6.0\Ex10.dll
+D:\Visual Studio Workspace\ExercisesList\Ex10\bin\Debug\net6.0\ref\Ex10.dll
+D:\Visual Studio Workspace\ExercisesList\Ex10\bin\Debug\net6.0\Ex10.pdb
+D:\Visual Studio Workspace\ExercisesList\Ex10\obj\Debug\net6.0\Ex10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Workspace\ExercisesList\Ex10\obj\Debug\net6.0\Ex10.AssemblyInfoInputs.cache
+D:\Visual Studio Workspace\ExercisesList\Ex10\obj\Debug\net6.0\Ex10.AssemblyInfo.cs
+D:\Visual Studio Workspace\ExercisesList\Ex10\obj\Debug\net6.0\Ex10.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workspace\ExercisesList\Ex10\obj\Debug\net6.0\Ex10.dll
+D:\Visual Studio Workspace\ExercisesList\Ex10\obj\Debug\net6.0\ref\Ex10.dll
+D:\Visual Studio Workspace\ExercisesList\Ex10\obj\Debug\net6.0\Ex10.pdb
+D:\Visual Studio Workspace\ExercisesList\Ex10\obj\Debug\net6.0\Ex10.genruntimeconfig.cache

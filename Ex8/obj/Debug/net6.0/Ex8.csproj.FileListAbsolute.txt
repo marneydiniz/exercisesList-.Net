@@ -1,0 +1,14 @@
+D:\Visual Studio Workspace\ExercisesList\Ex8\obj\Debug\net6.0\Ex8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Workspace\ExercisesList\Ex8\obj\Debug\net6.0\Ex8.AssemblyInfoInputs.cache
+D:\Visual Studio Workspace\ExercisesList\Ex8\obj\Debug\net6.0\Ex8.AssemblyInfo.cs
+D:\Visual Studio Workspace\ExercisesList\Ex8\obj\Debug\net6.0\Ex8.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workspace\ExercisesList\Ex8\bin\Debug\net6.0\Ex8.exe
+D:\Visual Studio Workspace\ExercisesList\Ex8\bin\Debug\net6.0\Ex8.deps.json
+D:\Visual Studio Workspace\ExercisesList\Ex8\bin\Debug\net6.0\Ex8.runtimeconfig.json
+D:\Visual Studio Workspace\ExercisesList\Ex8\bin\Debug\net6.0\Ex8.dll
+D:\Visual Studio Workspace\ExercisesList\Ex8\bin\Debug\net6.0\ref\Ex8.dll
+D:\Visual Studio Workspace\ExercisesList\Ex8\bin\Debug\net6.0\Ex8.pdb
+D:\Visual Studio Workspace\ExercisesList\Ex8\obj\Debug\net6.0\Ex8.dll
+D:\Visual Studio Workspace\ExercisesList\Ex8\obj\Debug\net6.0\ref\Ex8.dll
+D:\Visual Studio Workspace\ExercisesList\Ex8\obj\Debug\net6.0\Ex8.pdb
+D:\Visual Studio Workspace\ExercisesList\Ex8\obj\Debug\net6.0\Ex8.genruntimeconfig.cache
