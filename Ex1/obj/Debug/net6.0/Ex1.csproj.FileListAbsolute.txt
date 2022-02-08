@@ -1,0 +1,15 @@
+D:\Visual Studio Workspace\ExercisesList\Ex1\bin\Debug\net6.0\Ex1.exe
+D:\Visual Studio Workspace\ExercisesList\Ex1\bin\Debug\net6.0\Ex1.deps.json
+D:\Visual Studio Workspace\ExercisesList\Ex1\bin\Debug\net6.0\Ex1.runtimeconfig.json
+D:\Visual Studio Workspace\ExercisesList\Ex1\bin\Debug\net6.0\Ex1.dll
+D:\Visual Studio Workspace\ExercisesList\Ex1\bin\Debug\net6.0\ref\Ex1.dll
+D:\Visual Studio Workspace\ExercisesList\Ex1\bin\Debug\net6.0\Ex1.pdb
+D:\Visual Studio Workspace\ExercisesList\Ex1\obj\Debug\net6.0\Ex1.csproj.AssemblyReference.cache
+D:\Visual Studio Workspace\ExercisesList\Ex1\obj\Debug\net6.0\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Workspace\ExercisesList\Ex1\obj\Debug\net6.0\Ex1.AssemblyInfoInputs.cache
+D:\Visual Studio Workspace\ExercisesList\Ex1\obj\Debug\net6.0\Ex1.AssemblyInfo.cs
+D:\Visual Studio Workspace\ExercisesList\Ex1\obj\Debug\net6.0\Ex1.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workspace\ExercisesList\Ex1\obj\Debug\net6.0\Ex1.dll
+D:\Visual Studio Workspace\ExercisesList\Ex1\obj\Debug\net6.0\ref\Ex1.dll
+D:\Visual Studio Workspace\ExercisesList\Ex1\obj\Debug\net6.0\Ex1.pdb
+D:\Visual Studio Workspace\ExercisesList\Ex1\obj\Debug\net6.0\Ex1.genruntimeconfig.cache
